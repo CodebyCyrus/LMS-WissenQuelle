@@ -147,13 +147,18 @@ JAZZMIN_SETTINGS = {
 
 #     # Logo to use for login form in dark themes (defaults to login_logo)
 #     "login_logo_dark": None,
+
 #   # Relative path to a favicon for your site, will default to site_logo if absent (ideally 32x32 px)
 #     "site_icon": None,
 
 #     # Welcome text on the login screen
-#     "welcome_sign": "Welcome to the library",
+    "welcome_sign": "Welcome to the WissenQuelle LMS",
 
 #     # Copyright on the footer
     "copyright": "WissenQuelle by Mohammad Makaremnejad - codebycyrus.com",
+
+
+
+    
 
 }

@@ -157,8 +157,8 @@ JAZZMIN_SETTINGS = {
 #     # Copyright on the footer
     "copyright": "WissenQuelle by Mohammad Makaremnejad - codebycyrus.com",
 
+"show_ui_builder" : True,
 
 
-    
 
 }

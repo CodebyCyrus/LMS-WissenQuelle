@@ -45,6 +45,13 @@ INSTALLED_APPS = [
     'core',
     'userauths',
     'api',
+
+
+    # Third Party Apps
+	'rest_framework',
+    	'rest_framework_simplejwt.token_blacklist',
+    	'corsheaders',
+
 ]
 
 MIDDLEWARE = [
